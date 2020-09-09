@@ -17,7 +17,7 @@ Build APK can be found here... [Climate](https://github.com/arnabb38/clima)
 
 ## :bust_in_silhouette: Author
 ### Arnab Basak
-* Linkedin: [Arnab Basak](https://linkedin/in/arnab-basak)
+* Linkedin: [Arnab Basak](https://linkedin.com/in/arnab-basak)
 * Github: [Arnab Basak](https://github.com/arnabb38)
 
 ## :v: Show your support
