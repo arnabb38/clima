@@ -13,19 +13,19 @@
 
 ## :hammer: Build APK
 
-Build APK can be found here... [Climate](https:github.com/arnabb38/clima)
+Build APK can be found here... [Climate](https://github.com/arnabb38/clima)
 
 ## :bust_in_silhouette: Author
 ### Arnab Basak
-* Linkedin: [Arnab Basak](https:linkedin/in/arnab-basak)
-* Github: [Arnab Basak](https:github.com/arnabb38)
+* Linkedin: [Arnab Basak](https://linkedin/in/arnab-basak)
+* Github: [Arnab Basak](https://github.com/arnabb38)
 
 ## :v: Show your support
-Follow me on :octocat: [Github](https:github.com/arnabb38) if that project helped you.
+Follow me on :octocat: [Github](https://github.com/arnabb38) if that project helped you.
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome.
 Feel free to check issues page to send your request message if you want to contribute, private use, reuse the code or distribute.
 
 ## :memo: License
-Copyright © 2020 [Arnab Basak](https:github.com/arnabb38). All rights reserved. 
+Copyright © 2020 [Arnab Basak](https://github.com/arnabb38). All rights reserved. 
