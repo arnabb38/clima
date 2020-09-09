@@ -1,12 +1,12 @@
 # <center>Climate</center>
 > Climate - A Weather Application.
 
-## Prerequisites
+## :gear: Prerequisites
 * Flutter
 * Dart
 * IDE (Android Studio / vsCode / xCode)
 
-## Install
+## :envelope_with_arrow: Install
 * Flutter : [Flutter](https://flutter.dev/)
 * Android Studio : [Android Studio](https://developer.android.com/studio/?gclsrc=ds&gclsrc=ds)
 * Visual Studio Code : [Visual Studio Code](https://code.visualstudio.com/)
@@ -15,8 +15,8 @@
 
 Build APK can be found here... [Climate](https:github.com/arnabb38/clima)
 
-## Author
-### :bust_in_silhouette: Arnab Basak
+## :bust_in_silhouette: Author
+### Arnab Basak
 * Linkedin: [Arnab Basak](https:linkedin/in/arnab-basak)
 * Github: [Arnab Basak](https:github.com/arnabb38)
 
