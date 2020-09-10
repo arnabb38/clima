@@ -1,5 +1,15 @@
 # <center>Climate</center>
-> Climate - A Weather Application.
+
+## :clipboard: Feature
+Climate - is a Weather application. The application build for both Android and iOS using a single codebase, **Flutter**.
+
+Features available:
+
+- [x] Interactive UI
+- [x] Real-time Data
+- [x] Integrated Weather API
+- [x] Search by Country Name
+- [x] Track real-time Cordinate
 
 ## :gear: Prerequisites
 * Flutter
@@ -17,8 +27,8 @@ Build APK can be found here... [Climate](https://github.com/arnabb38/clima)
 
 ## :bust_in_silhouette: Author
 ### Arnab Basak
-* Linkedin: [Arnab Basak](https://linkedin.com/in/arnab-basak)
-* Github: [Arnab Basak](https://github.com/arnabb38)
+* Linkedin: [@arnab-basak](https://linkedin.com/in/arnab-basak)
+* Github: [@arnabb38](https://github.com/arnabb38)
 
 ## :v: Show your support
 Follow me on :octocat: [Github](https://github.com/arnabb38) if that project helped you.
