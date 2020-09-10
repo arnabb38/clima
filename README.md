@@ -1,6 +1,6 @@
 # <center>Climate</center>
 
-## :clipboard: Feature
+## :clipboard: Features
 Climate - is a Weather application. The application build for both Android and iOS using a single codebase, **Flutter**.
 
 Features available:
