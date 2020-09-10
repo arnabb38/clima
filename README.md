@@ -1,12 +1,8 @@
 # <center>Climate</center>
 
-<<<<<<< HEAD
 ![Climate Canvas](climate.png)
 
-## :clipboard: Feature
-=======
 ## :clipboard: Features
->>>>>>> c9b5fb44b642564e08060903d7ef188a22a2cf76
 Climate - is a Weather application. The application build for both Android and iOS using a single codebase, **Flutter**.
 
 Features available:
