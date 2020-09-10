@@ -18,7 +18,7 @@ Features available:
 * Dart
 * IDE (Android Studio / vsCode / xCode)
 
-## :envelope_with_arrow: Install
+## :envelope_with_arrow: Dependancies
 * Flutter : [Flutter](https://flutter.dev/)
 * Android Studio : [Android Studio](https://developer.android.com/studio/?gclsrc=ds&gclsrc=ds)
 * Visual Studio Code : [Visual Studio Code](https://code.visualstudio.com/)
